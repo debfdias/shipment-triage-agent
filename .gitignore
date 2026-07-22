@@ -1,0 +1,11 @@
+node_modules/
+dist/
+out/
+*.log
+
+# Secrets — never commit real keys
+.env
+.env.local
+
+# OS noise
+.DS_Store
