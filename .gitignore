@@ -9,3 +9,6 @@ out/
 
 # OS noise
 .DS_Store
+
+# Personal prep — not part of the submission
+VIDEO_SCRIPT.md
